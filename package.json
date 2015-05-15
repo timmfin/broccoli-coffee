@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "coffee-script": "~1.9.1",
-    "broccoli-filter": "^0.1.12"
+    "broccoli-filter": "timmfin/broccoli-filter#broccoli-persistent-filter"
   }
 }
